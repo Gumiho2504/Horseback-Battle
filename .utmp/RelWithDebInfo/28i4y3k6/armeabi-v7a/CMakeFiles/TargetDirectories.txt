@@ -1,0 +1,5 @@
+/Users/rose/Downloads/Fish Game/.utmp/RelWithDebInfo/28i4y3k6/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/rose/Downloads/Fish Game/.utmp/RelWithDebInfo/28i4y3k6/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/rose/Downloads/Fish Game/.utmp/RelWithDebInfo/28i4y3k6/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/rose/Downloads/Fish Game/.utmp/RelWithDebInfo/28i4y3k6/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/rose/Downloads/Fish Game/.utmp/RelWithDebInfo/28i4y3k6/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir
